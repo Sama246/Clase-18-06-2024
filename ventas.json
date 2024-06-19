@@ -1,0 +1,134 @@
+[
+    {
+        "id_venta": 1,
+        "id_empleado": "E1",
+        "total_venta": 30000,
+        "propina": 3000
+    },
+    {
+        "id_venta": 2,
+        "id_empleado": "E1",
+        "total_venta": 43922,
+        "propina": 4392.2
+    },
+    {
+        "id_venta": 3,
+        "id_empleado": "E1",
+        "total_venta": 54030,
+        "propina": 5403.0
+    },
+    {
+        "id_venta": 4,
+        "id_empleado": "E1",
+        "total_venta": 38410,
+        "propina": 3841.0
+    },
+    {
+        "id_venta": 5,
+        "id_empleado": "E1",
+        "total_venta": 61527,
+        "propina": 6152.700000000001
+    },
+    {
+        "id_venta": 6,
+        "id_empleado": "E1",
+        "total_venta": 69754,
+        "propina": 6975.400000000001
+    },
+    {
+        "id_venta": 7,
+        "id_empleado": "E1",
+        "total_venta": 42106,
+        "propina": 4210.6
+    },
+    {
+        "id_venta": 8,
+        "id_empleado": "E1",
+        "total_venta": 60310,
+        "propina": 6031.0
+    },
+    {
+        "id_venta": 9,
+        "id_empleado": "E1",
+        "total_venta": 64533,
+        "propina": 6453.3
+    },
+    {
+        "id_venta": 10,
+        "id_empleado": "E1",
+        "total_venta": 65628,
+        "propina": 6562.8
+    },
+    {
+        "id_venta": 11,
+        "id_empleado": "E1",
+        "total_venta": 48335,
+        "propina": 4833.5
+    },
+    {
+        "id_venta": 12,
+        "id_empleado": "E1",
+        "total_venta": 35567,
+        "propina": 3556.7000000000003
+    },
+    {
+        "id_venta": 2,
+        "id_empleado": "E2",
+        "total_venta": 42047,
+        "propina": 4204.7
+    },
+    {
+        "id_venta": 3,
+        "id_empleado": "E1",
+        "total_venta": 62056,
+        "propina": 6205.6
+    },
+    {
+        "id_venta": 4,
+        "id_empleado": "E2",
+        "total_venta": 41823,
+        "propina": 4182.3
+    },
+    {
+        "id_venta": 5,
+        "id_empleado": "E1",
+        "total_venta": 49125,
+        "propina": 4912.5
+    },
+    {
+        "id_venta": 6,
+        "id_empleado": "E1",
+        "total_venta": 45805,
+        "propina": 4580.5
+    },
+    {
+        "id_venta": 7,
+        "id_empleado": "E3",
+        "total_venta": 57787,
+        "propina": 5778.700000000001
+    },
+    {
+        "id_venta": 8,
+        "id_empleado": "E3",
+        "total_venta": 31672,
+        "propina": 3167.2000000000003
+    },
+    {
+        "id_venta": 9,
+        "id_empleado": "E1",
+        "total_venta": 38934,
+        "propina": 3893.4
+    },
+    {
+        "id_venta": 10,
+        "id_empleado": "E2",
+        "total_venta": 50668,
+        "propina": 5066.8
+    },
+    {
+        "id_venta": 11,
+        "id_empleado": "E3",
+        "total_venta": 55994,
+        "propina": 5599.400000000001
+    }
+]
